@@ -130,7 +130,7 @@ I was personally amped about using:
 
 I think our team worked REALLY well together. One person described it as, “No one acted like their idea was a perfect solution. This made it easy to ask for help and receive help.” 
 
-I also think our team had a good balance of non-redundant areas of expertise. Our professions include actual cybersecurity investigation, nursing, software engineering, and ruthless freelance mercenary (writer). Between the four of us, we speak or read, to varying degrees, 8 or 9 languages, and 
+I also think our team had a good balance of non-redundant areas of expertise. Our professions include actual cybersecurity investigation, nursing, software engineering, and ruthless freelance mercenary (writer). Between the four of us, we speak or read, to varying degrees, 8 or 9 languages.
 
 We stayed in contact in the voice chat most of the time, which we hadn’t done last time. I think this made a big difference since it sped up the handoff process and made it easier / more intuitive to go back and forth, and even to multitask (e.g., talking about one case, running a search on another). The human voice! Efficiency! Who’d have thought?! 
 
