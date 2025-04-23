@@ -124,7 +124,7 @@ I was personally amped about using:
 
 - My local instance of SpiderFoot 4.0.0
 - [Phonium](https://github.com/scarlmao/phonium/tree/main) (since I’d spent the Thursday night before the competition doing a PR for it)
-- GeoMastr, because I aspire to impress people by squinting at a blurry image and
+- ~~GeoMastr,~~  because I aspire to impress people by squinting at a blurry image and proclaiming, "Ah, yes, those bollards are only seen in Roanoke, Virginia" (I have since learned that there's some controversy about GeoMastr and how they got their content, and either way, I ended up not using it; apparently geohints is much better and is the original source of the content)
 
 ## What Went Well
 
